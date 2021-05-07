@@ -1,0 +1,134 @@
+.CATS
+.ASAP
+TRIKE
+OGDEN
+NOEND
+
+Across
+1. 2019 musical box-office bomb
+5. On the double
+6. Three-wheeler, informally
+7. Poet Nash
+8. With ___ in sight
+
+Down
+1. Ship's freight
+2. Parenthetical remark
+3. "Is this seat ___?"
+4. Consume some bread?
+6. Common unit of 1-Down
+
+---
+
+CROAK
+HALLO
+ANDGO
+STEAK
+MONEY
+
+Across
+1. Talk like a toad
+6. "Hey," in Hamburg
+7. Words starting an impromptu race
+8. One that's pink on rare occasions?
+9. The root of all evil, proverbially
+
+Down
+1. Gorge-ous land formation?
+2. Totaled, as a bill
+3. Of yore
+4. Organisms that "bloom" in ponds
+5. Screwball
+
+---
+
+HAVE.
+AVERT
+NORAH
+DIDSO
+.DIEU
+
+Across
+1. "___ I got news for you!"
+5. Turn away, as one's gaze
+7. Jazz singer Jones
+8. Response to a playground taunt
+9. Target of Pierre's prières
+
+Down
+1. Acquisition from a deal?
+2. Sidestep
+3. "La Traviata" composer
+4. Clear, as a hard drive
+6. Pronoun at the start of many of the Ten Commandments
+
+---
+
+..PEW
+NORMA
+EVICT
+WEMET
+TREES
+
+Across
+1. Pepé Le ___ (amorous skunk of cartoons)
+4. Marilyn Monroe's real first name
+6. Kick out
+7. "Save the introductions"
+8. Shady types?
+
+Down
+1. Word before meridian and minister
+2. Host of a roast
+3. Light bulb units
+4. Semiaquatic salamander
+5. "Your turn," on a walkie-talkie
+
+---
+
+.FIST
+CACAO
+TBIRD
+RINGO
+LOGE.
+
+Across
+1. Black Power symbol
+5. Chocolate source
+6. Sporty Ford introduced in '55
+7. Rock star Starr
+8. Theater box
+
+Down
+1. One-named Italian model with long, flowing hair
+2. Hockey infraction
+3. Base runner, maybe
+4. List heading
+5. Key used in many shortcuts
+
+---
+
+EGGO.
+DRUGS
+WILLA
+IMPEL
+NESS.
+
+Across
+1. Breakfast waffle obsession of Eleven on "Stranger Things"
+5. Xanax and Xeljanz, for example
+7. Midwestern author Cather
+8. Motivate
+9. Famed loch
+
+Down
+1. Dickens's Drood
+2. Gunk
+3. Guzzles (down)
+4. Looks rudely at
+6. Paradise of "On the Road"
+
+---
+
+4d,4a,0d,1d,0a
+(2, 4)(2, 3)(2, 2)(2, 1)(1, 1)(1, 0)(0, 0)

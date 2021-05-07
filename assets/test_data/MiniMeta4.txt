@@ -1,0 +1,134 @@
+.SUBS
+PILOT
+EXTRA
+STRAY
+THAT.
+
+Across
+1. Benchwarmers
+5. Amelia Earhart or Sully, e.g.
+6. Like guacamole at Chipotle, say
+7. Animal shelter rescue, often
+8. "Anything but ___!"
+
+Down
+1. "The ___ Sense" (Bruce Willis film)
+2. Super-duper
+3. Character with a 2020 "Subsequent Moviefilm"
+4. "Don't go!"
+5. Exterminator's target
+
+---
+
+.APB.
+STRAW
+AWAKE
+NADER
+GRADE
+
+Across
+1. Police dept. alert
+4. Paper or plastic choice
+6. Bright-eyed and bushy-tailed
+7. Politician Ralph who was a pioneer in car safety
+8. A, B, or C
+
+Down
+1. Doing battle
+2. "The Devil Wears ___"
+3. Like the beans in an English breakfast
+4. Did a number?
+5. Existed in the past
+
+---
+
+.MESH
+MACAO
+ALOFT
+TILES
+HAIR.
+
+Across
+1. Work well (with)
+5. Gambling destination on the South China Sea
+6. High up
+7. Scrabble squares
+8. Locks
+
+Down
+1. Elder Obama sister
+2. Cause for a food recall
+3. Not as risky
+4. Have the ___ for
+5. Summer activity?
+
+---
+
+BRETT
+RIVER
+OVINE
+NATTY
+CLASS
+
+Across
+1. Retired Green Bay quarterback Favre
+6. Red, Orange, or Yellow, e.g.
+7. Sheepish?
+8. Dapper
+9. One divided into orders, taxonomically
+
+Down
+1. Rodeo ride, informally
+2. DC, to Marvel
+3. "Don't cry for me" singer
+4. Camp sights
+5. Shots made from behind the arc, slangily
+
+---
+
+DID..
+OMITS
+TOPIC
+EULER
+STORY
+
+Across
+1. Executed
+4. Excludes
+7. Something to talk about
+8. He solved the "Seven Bridges of Königsberg" problem in 1735
+9. Level
+
+Down
+1. Is quite lovey-dovey
+2. Rejection heard often on "Shark Tank"
+3. Producer nominated for two Album of the Year Grammys in 2017
+5. Level
+6. Do some crystal gazing
+
+---
+
+ZACH.
+EGRET
+BLADE
+RENDS
+ATEAT
+
+Across
+1. Actor Braff of "Scrubs"
+5. "Snowy" wader
+7. Cutting edge
+8. Tears
+9. Really bugged
+
+Down
+1. Alphabet book closer, often
+2. Shoelace tip
+3. One doing the heavy lifting?
+4. Ibsen's Gabler
+6. Word after drug or acid
+
+---
+
+1d,4a,0d,4a,2a
+(2, 2)(1, 2)(1, 1)(0, 1)(0, 2)(0, 3)(0, 4)
